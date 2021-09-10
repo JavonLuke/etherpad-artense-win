@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "apples",
+      "hooks": {
+        "expressCreateServer": "ep_scene_script/apples:expressCreateServer"
+      }
+    }
+  ]
+}
